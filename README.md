@@ -25,36 +25,15 @@ This system enables real-time inventory tracking, automated booking workflows, a
 
 ### 🔹 1. Real-Time Inventory Management
 
-* Auto-updates new car arrivals
-* Tracks availability status
-* Displays specifications and pricing
-
 ### 🔹 2. Workflow Automation
 
-* Multi-level approval system (Sales → Supervisor)
-* Automated task creation
-* Car fulfillment status updates
-* Notification system for bookings
 
 ### 🔹 3. Customer Interaction Tracking
 
-* Logs inquiries
-* Stores preferences
-* Enables follow-up management
-
 ### 🔹 4. Test Drive Scheduling
-
-* Automated booking system
-* Status tracking
-* Reminder notifications
 
 ### 🔹 5. Reporting & Analytics
 
-* Sales performance reports
-* Popular model insights
-* Stock performance analysis
-
----
 
 ## ⚙️ Workflow Overview
 
@@ -69,16 +48,6 @@ This system enables real-time inventory tracking, automated booking workflows, a
 7. Set status → Deployment Failed / Completed
 8. Send Booking Notification
 
----
-
-## 🧰 Technologies Used
-
-* Workflow Automation Tools
-* Database Management System
-* Frontend Interface for Showroom Staff
-* Notification System (Email/Alert based)
-
----
 
 ## 📊 System Benefits
 
@@ -104,7 +73,5 @@ This system enables real-time inventory tracking, automated booking workflows, a
 
 **Project Name:** Automated Car Catalog System
 **Team ID:** LTVIP2026TMIDS69886
-
----
 
 ---
